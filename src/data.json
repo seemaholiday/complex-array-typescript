@@ -1,0 +1,25 @@
+[
+    {
+      "AccountId":"1",
+      "AccountName":"abc",
+      "employeInfo":[
+        {
+          "empName":"Seema",
+          "empAge":20,
+          "salary":10000,
+          "department":"IT"
+        },
+        {
+          "empName":"Seema1",
+          "empAge":22,
+          "salary":20000,
+          "department":"Management"
+        }
+      ],
+      "empPersonalInfo":[
+        {
+          
+        }
+      ]
+    }
+  ]
